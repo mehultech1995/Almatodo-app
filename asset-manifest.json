@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Almatodo-app/static/css/main.edfa8235.css",
+    "main.js": "/Almatodo-app/static/js/main.e5e66229.js",
+    "static/js/787.2843ca88.chunk.js": "/Almatodo-app/static/js/787.2843ca88.chunk.js",
+    "index.html": "/Almatodo-app/index.html",
+    "main.edfa8235.css.map": "/Almatodo-app/static/css/main.edfa8235.css.map",
+    "main.e5e66229.js.map": "/Almatodo-app/static/js/main.e5e66229.js.map",
+    "787.2843ca88.chunk.js.map": "/Almatodo-app/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfa8235.css",
+    "static/js/main.e5e66229.js"
+  ]
+}
